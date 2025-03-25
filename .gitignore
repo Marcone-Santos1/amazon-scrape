@@ -1,0 +1,33 @@
+
+# Node modules
+*/node_modules/
+
+# Bun cache and lock files
+api/.bun/
+api/bun.lockb
+
+*/bun.lock
+
+
+# Vite (frontend) build output and node_modules
+front/dist/
+front/.vite/
+
+# .env files (to keep sensitive data secure)
+*/.env
+
+# Logs
+*.log
+*.log.*
+
+# OS files (macOS, Windows, etc.)
+.DS_Store
+Thumbs.db
+
+# IDE files (VS Code, JetBrains, etc.)
+.vscode/
+.idea/
+
+# Optional: If you are using npm or yarn for some dependencies
+*/package-lock.json
+*/yarn.lock
