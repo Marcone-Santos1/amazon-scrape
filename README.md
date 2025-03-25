@@ -14,7 +14,7 @@ Before starting, you will need:
 
 - Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Marcone-Santos1/amazon-scrape
 ```
 
 - Open the project folder:
